@@ -1,0 +1,10 @@
+[
+  {
+    "id": "demo-1",
+    "title": "Esempio prodotto 1",
+    "price": "19.90",
+    "affiliate_link": "https://example.com/product/1?aff=YOUR_TRACKING",
+    "image": "https://via.placeholder.com/600x400",
+    "updated_at": "2025-09-01T00:00:00Z"
+  }
+]
